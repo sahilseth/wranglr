@@ -1,0 +1,18 @@
+Package: wranglr
+Type: Package
+Title: A Stream of Snippets to simplify Data Wrangling
+Description: This aims to provide a wrap around functions already available via
+    packages like: readr, openxlsx, plyr etc.
+Version: 0.1.9003
+Date: 2018-04-22
+Author: Sahil Seth
+Maintainer: Sahil Seth <sahil.seth@me.com>
+License: GPL
+LazyData: TRUE
+Depends: 
+    magrittr
+Imports:
+    openxlsx,
+    rmarkdown,
+    magrittr
+RoxygenNote: 6.1.1
