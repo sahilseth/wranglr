@@ -4,3 +4,8 @@
 - read_sheet: read a table, xlsx, tsv, csv etc...
     - expand_grid: This would expand them
 
+
+```
+p_install_gh("sahilseth/wranglr")
+
+```
